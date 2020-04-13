@@ -1,0 +1,10 @@
+In this Section I learnt about "Non-Primitive Data Typess".
+    Data types which do not have allocated memery i.e. we assigne them specific space. They are already defined as Primitives are. 
+          Array
+          Classes
+          Structs
+          Strings
+          Enums
+          Reference Types and Values
+          
+   
