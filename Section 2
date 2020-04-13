@@ -1,0 +1,14 @@
+Topics Covered under section 2 are as follows:
+Introduction of the course (from scratch)
+
+Difference between C# and .NET
+"C# is a OOP (Object Oriented Programming Language) while .NET is a framework composed of CLR and Libraries".
+
+What is CLR (Common Language Run-Time), main part of .Net Framework.
+"This actuall workfor the converion of IL(Intermideate Language into Native Machine Language).
+This process is known as JIT(Just in Time)."
+
+Artchitecture of .NET
+Visual Studio 19 installation
+first C# Application "HELLOWORLD".
+
