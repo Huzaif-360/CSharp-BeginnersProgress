@@ -1,0 +1,59 @@
+This section started with the introduction of thing I learnt in this section i.e. "Primitive Data Types".
+      Primitive data type:
+          Data types that have some values, or a specific memory is allocated for them are primitive data types.
+          i.e. byte 
+               int
+               short
+               long
+               float
+               double
+               decimal etc.
+      
+Difference between Variables and Constants:
+  Variables:
+      Vari-ables mean changeable data types are variables.
+  Constants:
+      Non-changeable data types are constants.
+      
+Overflowing:
+Scope :
+
+Type Conersion
+3 types of conversions:
+    Implicit Conversion:
+          i.e. Conversion of 1 byte to 1 Int32
+    Explicit Conversion:
+          i.e. Conversion of 1 Int32 back to 1 byte, for this we need to declare the data type and this is known as "Casting".
+    Non-Compatible Conversion:
+          i.e. Conversion of Primitive data types with non-Primitive data types.
+          i.e. string s= "1234" to int = 1234.
+          for this I learnt a C# function Convert.ToInt32.
+          
+Operatorss:
+    Arithimaticals Operators: 
+          +
+          -
+          /
+          *
+          %
+          
+    Assignment Operators:
+          +=
+          -=
+          *=
+          /=
+          
+    Logical Operators:
+          && (AND)
+          || (OR)
+    Bitwise Operators:
+          & (AND)
+          | (OR)
+          ! (NOT)
+    Comparison Operators:
+          < (Less than)
+          > (Greater than)
+          = (Equal to)
+          != (NOT Equal)
+          <= (Less than equal to)
+          >= (Greater than equal to)
